@@ -1,0 +1,9 @@
+com\telusko\quizservice\service\QuizService.class
+com\telusko\quizservice\model\Quiz.class
+com\telusko\quizservice\model\QuizDto.class
+com\telusko\quizservice\model\QuestionWrapper.class
+com\telusko\quizservice\controller\QuizController.class
+com\telusko\quizservice\model\Response.class
+com\telusko\quizservice\dao\QuizDao.class
+com\telusko\quizservice\QuizServiceApplication.class
+com\telusko\quizservice\feign\QuizInterface.class
